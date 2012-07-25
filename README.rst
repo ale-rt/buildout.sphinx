@@ -1,7 +1,9 @@
 Sphinxbuild
 ===========
 
-Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_  to install `Sphinx` via buildout.
+**README is not finished yet**
+
+Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_  to install `Sphinx`_ via buildout.
 
 
 Installation
@@ -14,7 +16,7 @@ Make sure you have all dependencies you need/want, i prefer to install it into i
 
         apt-get install build-essential python2.6-dev python-virtualenv
 
-**README is not finished yet**
+
 
 
 .. _collective.recipe.sphinxbuilder: http://pypi.python.org/pypi/collective.recipe.sphinxbuilder
