@@ -1,7 +1,7 @@
 Sphinxbuild
 ===========
 
-Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_ to install `Sphinx`_ via buildout.
+Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_  to install `Sphinx` via buildout.
 
 
 Installation
@@ -17,6 +17,6 @@ Make sure you have all dependencies you need/want, i prefer to install it into i
 **README is not finished yet**
 
 
-.. _collective.recipe.sphinxbuilder http://pypi.python.org/pypi/collective.recipe.sphinxbuilder
-.. _Sphinx http://sphinx.pocoo.org/index.html
+.. _collective.recipe.sphinxbuilder: http://pypi.python.org/pypi/collective.recipe.sphinxbuilder
+.. _Sphinx: http://sphinx.pocoo.org/index.html
 
