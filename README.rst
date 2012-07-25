@@ -1,7 +1,7 @@
 Sphinxbuild
 ===========
 
-Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder` to install `Sphinx` via buildout.
+Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_ to install `Sphinx`_ via buildout.
 
 
 Installation
