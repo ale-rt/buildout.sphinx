@@ -4,6 +4,7 @@
 *.EGG
 *.EGG-INFO
 bin
+docs
 build
 develop-eggs
 downloads
