@@ -9,12 +9,11 @@ Sphinxbuild is a buildout based on `collective.recipe.sphinxbuilder`_  to instal
 Installation
 ------------
 
-Tested on Debian 6 [Squeeze] with python2.6 and and Debian 7 [Wheezy] with
-python2.7
+Tested on Debian 7 [Wheezy] with python2.7
 
 Make sure you have all dependencies you need/want, i prefer to install it into its own virtual environment, here on Squeeze::
 
-        apt-get install build-essential python2.6-dev python-virtualenv
+        apt-get install build-essential python2.7-dev python-virtualenv
 
 
 
